@@ -6,7 +6,8 @@ Group:      Applications/System
 License:    Apache 2.0
 URL:        http://www.tizen.org2
 Source0:    %{name}-%{version}.tar.bz2
-Requires:   chromium
+Requires:   remotecontrol
+Requires:   webskeleton
 BuildRequires:  desktop-file-utils
 
 %description
