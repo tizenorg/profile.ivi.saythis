@@ -44,5 +44,11 @@ App = {};
             }
             console.log('Speak button clicked');
         });
+
+	$('#inputArea').keyup(function(event) {
+		if (event.keyCode === 13) {
+			$('#speakButton').click();
+		}
+	});
     });
 })()
