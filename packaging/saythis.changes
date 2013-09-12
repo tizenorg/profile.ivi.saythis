@@ -1,3 +1,7 @@
+* Thu Sep 12 2013 brianjjones <brian.j.jones@intel.com> 1.0_branch@71f490d
+- Updating saythis to use the tizen.speech.vocalizeString() method instead of websockets
+- Making it so pressing enter says the words
+
 * Wed Sep 12 2012 bjones <None> submit/trunk/20120911.004456@9d140f6
 - Fixing spec and desktop files
 - Initial commit
