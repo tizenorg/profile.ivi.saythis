@@ -1,3 +1,6 @@
+* Mon Sep 16 2013 brianjjones <brian.j.jones@intel.com> accepted/tizen/20130912.212624@78077f1
+- Fixing the css file so the application is oriented properly
+
 * Thu Sep 12 2013 brianjjones <brian.j.jones@intel.com> 1.0_branch@71f490d
 - Updating saythis to use the tizen.speech.vocalizeString() method instead of websockets
 - Making it so pressing enter says the words
